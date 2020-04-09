@@ -10,10 +10,10 @@ pagemargins: 2.5
 fontsize: 12
 ---
 
-# 3.结果及讨论
+# 3.结果
 
     
-&ensp; &ensp;主要分为以下四个部分
+&ensp; &ensp;主要分为以下三个部分
 
 
 &emsp;&emsp;1、参数解释
@@ -25,7 +25,7 @@ fontsize: 12
 &emsp;&emsp;3、研究结果
 
 
-&emsp;&emsp;4、模型局限性展望及
+
 
 
     
@@ -141,7 +141,6 @@ $$\bar{R_c}([t, t + ∆t]) = R_cIN([t, t + ∆t])/ R_cOUT ([t, t + ∆t])\tag{3}
 ## 3.3 研究结果
 
 
-
 &ensp; &ensp;&ensp;&ensp;研究的主要发现有以下几点:
 
 &emsp;&emsp;1、无症状病毒携带者是不可忽视的一部分，大概有30%的患者是无症状感染者。
@@ -156,10 +155,10 @@ $$\bar{R_c}([t, t + ∆t]) = R_cIN([t, t + ∆t])/ R_cOUT ([t, t + ∆t])\tag{3}
 
 ----
 
-## 3.4 模型局限性及展望
+# 4.讨论
 
 
-&ensp; &ensp;&ensp;&ensp;模型的局限性：
+&ensp; &ensp;模型的局限性：
 
 &emsp;&emsp;1、当前的估计方法收敛缓慢；
 
@@ -167,9 +166,9 @@ $$\bar{R_c}([t, t + ∆t]) = R_cIN([t, t + ∆t])/ R_cOUT ([t, t + ∆t])\tag{3}
 
 &emsp;&emsp;3、如果隔离结束后，无症状患者中一部分仍具有传染性,那么现有的模型需要进一步修改。
 
+&emsp;
 
-
-&ensp; &ensp;&ensp;&ensp;模型展望：
+&ensp; &ensp;模型展望：
 
 &emsp;&emsp;1、改进医疗跟踪动态；
 
@@ -178,5 +177,13 @@ $$\bar{R_c}([t, t + ∆t]) = R_cIN([t, t + ∆t])/ R_cOUT ([t, t + ∆t])\tag{3}
 &emsp;&emsp;3、将城市流动人口引入模型。
 
 ----
-
-
+&emsp;&emsp;
+&emsp;&emsp;
+&emsp;&emsp;
+&emsp;&emsp;
+&emsp;&emsp;
+<center>
+<font size=10>
+感谢大家的聆听！
+</font>
+</center>
