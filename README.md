@@ -1,5 +1,4 @@
 # topic-presentation-rainbow
-topic-presentation-rainbow created by GitHub Classroom
 
 报告主题：基于随机动力学模型的COVID-19爆发预测分析
 
